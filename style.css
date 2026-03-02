@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 30px;
+}
+
+section {
+  margin: 20px;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+}
+
+.whatsapp {
+  background-color: green;
+  color: white;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.whatsapp:hover {
+  background-color: darkgreen;
+  }
